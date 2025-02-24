@@ -8,7 +8,7 @@ This is a hackathon event took place in the Brampton City Hall.
 <p align="center">
   <img src="https://raw.githubusercontent.com/P-pisiko/bramphacks-2024/refs/heads/main/img/map_.jpg" width="600" />
 </p>
-- We used Open Maps to implement integraed map to our survey. 
+- We used Open Maps to implement integrate map to our survey. 
 
 # Database Information
 - Related to time constrains we decited to store all information coming from the frontend in a sinlge table.
