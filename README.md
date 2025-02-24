@@ -3,7 +3,7 @@ This is a hackathon event took place in the Brampton City Hall.
 ## Our Idea
 
 - Collaborated with a team of 3 to develop an online survay application to alow people to give feadback to the city about the bike share system city might implement.
-- We are aim to collect mass amout of data from the people doing the short survay and use data analysis and visualization to get the best possible location for the bike sharing.
+- We are aim to collect mass amout of data from the people doing the short survay which includes a place selected on the map, gender and age. We use data analysis and visualization to get the best possible location for the bike sharing.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/P-pisiko/bramphacks-2024/refs/heads/main/img/map_.jpg" width="600" />
