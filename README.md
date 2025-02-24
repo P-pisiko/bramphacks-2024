@@ -13,6 +13,7 @@ This is a hackathon event took place in the Brampton City Hall.
 # Database Information
 - Related to time constrains we decited to store all information coming from the frontend in a sinlge table.
 - We are able to use the latitude and longitude to convert coordinates back to adresses so get rid of the storing addresses on the database overhead.
+
 ![image](https://raw.githubusercontent.com/P-pisiko/bramphacks-2024/refs/heads/main/MySQL-Database-Details/Table.jpg)
 
 __Sample data__
