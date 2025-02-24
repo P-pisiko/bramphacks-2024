@@ -33,7 +33,7 @@ app.post("/submit", (req,res) => {
 app.get("/:yok", (req, res) => {
     const getrequest = req.params.yok //Bulunamadı sayfası post versiyon
     //res.status(404).send(`Not found: ${getrequest}`)
-    res.status(404).sendFile(path.join(__dirname, '/index.html'));
+    res.status(404).sendFile(path.join(__dirname, '/error.html'));
    
 })
 
