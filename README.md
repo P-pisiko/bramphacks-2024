@@ -6,7 +6,7 @@ This is a hackathon event took place in the Brampton City Hall.
 - We are aim to collect mass amout of data from the people doing the short survay and use data analysis and visualization to get the best possible location for the bike sharing.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/P-pisiko/bramphacks-2024/refs/heads/main/img/map_.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/P-pisiko/bramphacks-2024/refs/heads/main/img/map_.jpg" width="600" />
 </p>
 
 # Database Information
