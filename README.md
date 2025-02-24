@@ -27,7 +27,6 @@ __Sample data__
 - Thrived in a high-pressure, fast-paced environment by delivering a functional prototype within 48 hours, demonstrating strong problem-solving and time-management skills
 
 # Skills:
-- Database design and implementation: SQL, NoSQL, EER model, Relational Diagram
-- Communication
-- Teamwork
-- Presentation
+- Working under time pressure
+- Team Collaboration
+- Problem solving skills
